@@ -14,4 +14,4 @@ The user can get the desired frame by pressing **'g'**.
 
 **Input: **Accept only one picture file at a time and adapt to the upper part of the visualization window.
 
-**Output: ** Paintings based on input images and preset rules.
+**Output: **Paintings based on input images and preset rules.
